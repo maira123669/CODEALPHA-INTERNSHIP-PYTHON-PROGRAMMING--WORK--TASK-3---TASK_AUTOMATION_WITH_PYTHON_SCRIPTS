@@ -12,7 +12,7 @@ def organize_folder():
     target_dir = filedialog.askdirectory(title="Select Folder to Organize")
     
     if not target_dir:
-        print("❌ No folder selected. Exiting.")
+        print(" No folder selected. Exiting.")
         return
 
     print(f"\nScanning: {target_dir}")
