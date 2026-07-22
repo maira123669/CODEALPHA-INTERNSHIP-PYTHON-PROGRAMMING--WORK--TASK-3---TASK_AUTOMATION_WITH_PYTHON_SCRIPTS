@@ -112,6 +112,6 @@ BS Computer Science (BSCS)
 
 ---
 
-## 📜 License
+##  License
 
 This project is created for learning and educational purposes.
